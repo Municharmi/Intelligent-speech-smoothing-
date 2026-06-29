@@ -1,0 +1,14 @@
+flask==3.1.2
+flask-cors==4.0.0
+python-dotenv==1.0.1
+librosa==0.10.2
+soundfile==0.12.1
+pydub==0.25.1
+numpy==1.26.4
+scipy==1.13.0
+scikit-learn==1.5.0
+pandas==2.2.2
+openpyxl==3.1.2
+openai-whisper==20231117
+yt-dlp==2024.5.27
+imbalanced-learn==0.12.3
