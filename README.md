@@ -267,29 +267,24 @@ The implemented system is capable of:
 
 ---
 
-# 📷 Application Screenshots
+# 📷 Screenshots
 
 ## 🏠 Home Page
 
 ![Home Page](images/home-page.png)
 
----
-
-## 🎤 Audio Upload and Processing
+## 🎤 Audio Upload
 
 ![Audio Upload](images/audio-upload.png)
-
----
 
 ## 📊 Speech Severity Classification
 
 ![Speech Severity](images/speech-severity.png)
 
----
-
 ## 💬 Speech Interpretation
 
 ![Speech Interpretation](images/speech-interpretation.png)
+
 
 # 🎥 Demo
 
