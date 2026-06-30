@@ -267,16 +267,29 @@ The implemented system is capable of:
 
 ---
 
-# 📷 Screenshots
+# 📷 Application Screenshots
 
-**Coming Soon**
+## 🏠 Home Page
 
-- Home Page
-- Audio Upload
-- Prediction Dashboard
-- Speech Analysis Output
+![Home Page](images/home-page.png)
 
 ---
+
+## 🎤 Audio Upload and Processing
+
+![Audio Upload](images/audio-upload.png)
+
+---
+
+## 📊 Speech Severity Classification
+
+![Speech Severity](images/speech-severity.png)
+
+---
+
+## 💬 Speech Interpretation
+
+![Speech Interpretation](images/speech-interpretation.png)
 
 # 🎥 Demo
 
